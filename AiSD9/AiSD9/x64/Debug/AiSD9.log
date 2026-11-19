@@ -1,0 +1,3 @@
+﻿  AiSD9.cpp
+D:\Visual Studio Repos\AiSD9\AiSD9\AiSD9.cpp(204,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  AiSD9.vcxproj -> D:\Visual Studio Repos\AiSD9\x64\Debug\AiSD9.exe
